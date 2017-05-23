@@ -57,8 +57,8 @@ namespace GPlusQuickstartCsharp
         //   https://code.google.com/apis/console
         public static ClientSecrets secrets = new ClientSecrets()
         {
-            ClientId = "YOUR_CLIENT_ID",
-            ClientSecret = "YOUR_CLIENT_SECRET"
+            ClientId = "224284763432-0i72s0kho1bhc8m1c58fs8u6drvknvkh.apps.googleusercontent.com",
+            ClientSecret = "yMwtCvDXLNsyPlGomDJe1eD2"
         };
 
         // Configuration that you probably don't need to change.
